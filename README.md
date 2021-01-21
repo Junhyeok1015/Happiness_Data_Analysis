@@ -40,4 +40,4 @@ World Happiness Report Dataset(2019) : https://www.kaggle.com/unsdsn/world-happi
 
 - 순위와 국가를 제외한 변수들로 간단한 선형회귀 알고리즘을 이용하여 행복지수를 예측해보았습니다.
 
-
+## 추가적인 분석은 코드를 확인해주시면 감사하겠습니다.
