@@ -23,7 +23,7 @@ World Happiness Report Dataset(2019) : https://www.kaggle.com/unsdsn/world-happi
 - 행복한편이네요 :)
 
 ### 지도로 본 행복지수
-![Happniess Map](https://user-images.githubusercontent.com/18099627/105359114-6b1f3d00-5c3a-11eb-8a6e-f4076ceccc1e.png)
+![image](https://user-images.githubusercontent.com/18099627/105359994-7030bc00-5c3b-11eb-939f-924e2f37685b.png)
 
 - 색이 밝을수록 행복지수가 낮음을 의미합니다.
 - 대부분의 아메리카 지역의 국가들이 행복지수가 높고 아프리카에 위치한 국가들이 행복지수가 낮음을 확인할 수 있습니다
